@@ -24,8 +24,9 @@ Here are some of the projects I've worked on. Each one represents a unique busin
 | Project Title | Description | Key Technologies | Repository |
 | :--- | :--- | :--- | :--- |
 | **IBM Z Datathon '24** | Analyzed YouTube channel data to predict video engagement. Utilized **K-Means clustering** for audience segmentation and built a predictive GUI. | `K-Means`, `Scikit-learn`, `Tkinter` | [Explore Repo](https://github.com/HarshBang/IBM-Z-DATATHON-24-GAT94) |
-| **NYC Taxi Fare Prediction** | Developed a regression model to predict total taxi fares in NYC. Evaluated multiple models, selecting **Random Forest** for its optimal performance. | `Scikit-learn`, `Pandas`, `Jupyter` | [Explore Repo](https://github.com/HarshBang/nyc-green-taxi-total-price-prediction) |
-| **Wikipedia Sentiment Analysis** | Executed an NLP project to scrape Wikipedia data, perform sentiment analysis, and deploy the classification model as an interactive web app. | `Streamlit`, `NLTK`, `Scikit-learn` | [Explore Repo](https://github.com/HarshBang/Russia-Wikipedia-Sentiment-Analysis-App) |
+| **Employee Promotion Prediction** | Built and evaluated a classification model for an Analytics Vidhya problem statement to predict whether an employee would be promoted, addressing key HR business challenges. | `Classification Models`, `Decision Tree`, `GBM Classifier` | [Ranked 1323/18300](https://www.analyticsvidhya.com/datahack/contest/wns-analytics-hackathon-2018-1/) |
+| **NYC Taxi Fare Prediction** | Developed a regression model to predict total taxi fares in NYC. Evaluated multiple models, selecting **Random Forest** for its optimal performance. | `Feature Importance Analysis`, `Streamlit Cloud` | [Explore Repo](https://github.com/HarshBang/nyc-green-taxi-total-price-prediction) |
+| **Wikipedia Sentiment Analysis** | Executed an NLP project to scrape Wikipedia data, perform sentiment analysis, and deploy the classification model as an interactive web app. | `NLTK`, `Random Forest`, `Pickle` | [Explore Repo](https://github.com/HarshBang/Russia-Wikipedia-Sentiment-Analysis-App) |
 
 ## 📩 Get In Touch
 
